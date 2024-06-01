@@ -1,10 +1,8 @@
-- 👋 Hi, I’m Jack Richardson
-- 👀 I’m interested in Full Stack Web Development and UI UX Design...
-- 🌱 I’m currently learning Javascript, Node.js and React.js ...
-- 💞️ I’m looking to collaborate on Microsoft Teams...
-- 📫 You can reach me via email jackrichardsonyt123@gmail.com ...
+- 👋 Hi, I’m Asmit Das Choudhury.
+- 👀 I’m interested in C++ App Development and UI UX Design.
+- 📫 You can reach me via email at asmitdaschoudhury@proton.me
 
 <!---
-jackr7059/jackr7059 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
+jackr7059/jackr7059 is a ✨ special ✨ repository because its `README.md` (this file) appears on my GitHub profile.
+You can click the Preview link to take a look at the changes.
 --->
